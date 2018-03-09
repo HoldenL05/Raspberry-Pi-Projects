@@ -1,3 +1,4 @@
+# import packages 
 import smbus
 import time
 import dht11
